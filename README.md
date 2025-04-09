@@ -8,22 +8,6 @@
     * {
     font-family: "Poppins", sans-serif;
  }
-         .container {
-            display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: start;
-            align-items: center;
-            gap: 20px;
-        }
-.options {
-            display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;
-        }
 </style>
 
 # Hi there! I'm Muhammad Affan 👋
@@ -40,49 +24,124 @@ I'm a **full stack** developer based in **Pakistan** with an expreience in build
 ## 📚 Skills
 
 #### **Frontend** :
-<div class="container">
-        <div class="options">
+<div style="display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: start;
+            align-items: center;
+            gap: 20px;font-family: "Poppins", sans-serif;">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>HTML</span><img src="./images/html.svg" alt="html"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>CSS</span><img src="./images/css.svg" alt="css"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Javascript</span><img src="./images/javascript.svg" alt="python"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Typescript</span><img src="./images/typescript.svg" alt="typescript"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>React</span><img src="./images/react.svg" alt="typescript"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>TailwindCSS</span><img src="./images/tailwind.svg" alt="typescript"/>
         </div>
 </div>
 
 #### **Jamstack** :
-<div class="container">
-        <div class="options">
+<div style="display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: start;
+            align-items: center;
+            gap: 20px;font-family: "Poppins", sans-serif;">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Next.JS</span><img src="./images/next.svg" alt="nextjs"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Sanity</span><img src="./images/sanity.svg" alt="sanity"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Netlify</span><img src="./images/netlify.svg" alt="netlify"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Vercel</span><img src="./images/vercel.svg" alt="vercel"/>
         </div>
 </div>
 
 #### **Agentic AI** :
-<div class="container">
-        <div class="options">
+<div style="display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: start;
+            align-items: center;
+            gap: 20px;font-family: "Poppins", sans-serif;">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Python</span><img src="./images/python.svg" alt="python"/>
         </div>
-        <div class="options">
+        <div style="display:flex;
+            flex-direction: row; 
+            flex-wrap:nowrap;
+            justify-content: start;
+            align-items: center;
+            gap: 10px;font-family: "Poppins", sans-serif;">
             <span>Streamlit</span><img src="./images/streamlit.svg" alt="streamlit"/>
         </div>
 </div>
