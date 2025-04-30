@@ -18,102 +18,10 @@ I'm a **full stack** developer based in **Pakistan** with an expreience in build
 ## 📚 Skills
 
 #### **Frontend** :
-<div style="display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: start;
-            align-items: center;
-            gap: 20px;font-family: "Poppins", sans-serif;">
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>HTML</span><img src="./images/html.svg" alt="html"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>CSS</span><img src="./images/css.svg" alt="css"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Javascript</span><img src="./images/javascript.svg" alt="python"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Typescript</span><img src="./images/typescript.svg" alt="typescript"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>React</span><img src="./images/react.svg" alt="typescript"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>TailwindCSS</span><img src="./images/tailwind.svg" alt="typescript"/>
-        </div>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; font-family: 'Poppins', sans-serif;"> <div style="display: flex; align-items: center; gap: 10px;"><span>HTML</span><img src="./images/html.svg" alt="HTML" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>CSS</span><img src="./images/css.svg" alt="CSS" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>JavaScript</span><img src="./images/javascript.svg" alt="JavaScript" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>TypeScript</span><img src="./images/typescript.svg" alt="TypeScript" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>React</span><img src="./images/react.svg" alt="React" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>Tailwind CSS</span><img src="./images/tailwind.svg" alt="Tailwind CSS" /></div> </div>
 
 #### **Jamstack** :
-<div style="display: flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: start;
-            align-items: center;
-            gap: 20px;font-family: "Poppins", sans-serif;">
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Next.JS</span><img src="./images/next.svg" alt="nextjs"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Sanity</span><img src="./images/sanity.svg" alt="sanity"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Netlify</span><img src="./images/netlify.svg" alt="netlify"/>
-        </div>
-        <div style="display:flex;
-            flex-direction: row; 
-            flex-wrap:nowrap;
-            justify-content: start;
-            align-items: center;
-            gap: 10px;font-family: "Poppins", sans-serif;">
-            <span>Vercel</span><img src="./images/vercel.svg" alt="vercel"/>
-        </div>
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; font-family: 'Poppins', sans-serif;"> <div style="display: flex; align-items: center; gap: 10px;"><span>Next.js</span><img src="./images/next.svg" alt="Next.js" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>Sanity</span><img src="./images/sanity.svg" alt="Sanity" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>Netlify</span><img src="./images/netlify.svg" alt="Netlify" /></div> <div style="display: flex; align-items: center; gap: 10px;"><span>Vercel</span><img src="./images/vercel.svg" alt="Vercel" /></div> </div>
 
 #### **Agentic AI** :
 <div style="display: flex;
