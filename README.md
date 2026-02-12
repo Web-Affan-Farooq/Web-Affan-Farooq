@@ -6,13 +6,31 @@ I am a **Full-Stack Developer & AI Engineer** focused on building scalable web a
 
 ## 🛠 Tech Stack
 
+<table>
+        <tbody>
+            <tr>
+                <td>
+                    <strong>Languages :</strong>
+                </td>
+                <td>
+                    <img src="./assets/images/tailwindcss.svg" width="30" height="30">
+                    &nbsp;
+                </td>
+                <td>
+                    <img src="./assets/images/tailwindcss.svg" width="30" height="30">
+                    &nbsp;
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
 | Category | Tools & Technologies |
 | --- | --- |
-| **Languages** | <span class="exm">Typescript <img src="./assets/images/tailwindcss.svg"></span> , Python, Bash |
-| **AI & Data** | OpenAI Agents SDK, Google Agent Development kit, NumPy, Pandas, Streamlit |
-| **Frontend** | Next.js, React, TailwindCSS, GSAP, Bootstrap |
-| **Backend & DevOps** | Docker, Linux, Git, Claude Code CLI, GitHub Specit |
-| **Design** | Figma, Photopea |
+| **Languages** | <img src="./assets/images/typescript.svg" width="30" height="30"> , <img src="./assets/images/python.svg" width="30" height="30"> |
+| **AI & Data** | <img src="./assets/images/openai-sdk.svg" width="30" height="30">, <img src="./assets/images/numpy.svg" width="30" height="30">, <img src="./assets/images/pandas.svg" width="30" height="30">, <img src="./assets/images/streamlit.svg" width="30" height="30"> |
+| **Frontend** | <img src="./assets/images/next.svg" width="30" height="30">, <img src="./assets/images/react.svg" width="30" height="30">, <img src="./assets/images/tailwind.svg" width="30" height="30">, <img src="./assets/images/gsap.svg" width="30" height="30">, Bootstrap |
+| **Backend & DevOps** | <img src="./assets/images/docker.svg" width="30" height="30">, <img src="./assets/images/linux.svg" width="30" height="30">, <img src="./assets/images/linux.svg" width="30" height="30">, <img src="./assets/images/github-speckit.svg" width="30" height="30"> |
+| **Design** | <img src="./assets/images/figma.svg" width="30" height="30">, <img src="./assets/images/photopea.svg" width="30" height="30"> |
 
 ---
 
