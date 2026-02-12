@@ -17,11 +17,11 @@ I'm a **full stack** developer based in **Pakistan** with an experience in build
 
 | Category | Tools & Technologies |
 | --- | --- |
-| **Languages** | <img src="./assets/images/typescript.svg" width="30" height="30"> , <img src="./assets/images/python.svg" width="30" height="30"> |
-| **AI & Data** | <img src="./assets/images/openai-sdk.svg" width="30" height="30">, <img src="./assets/images/numpy.svg" width="30" height="30">, <img src="./assets/images/pandas.svg" width="30" height="30">, <img src="./assets/images/streamlit.svg" width="30" height="30"> |
-| **Frontend** | <img src="./assets/images/next.svg" width="30" height="30">, <img src="./assets/images/react.svg" width="30" height="30">, <img src="./assets/images/zustand.svg" width="30" height="30">,<img src="./assets/images/tailwind.svg" width="30" height="30">, <img src="./assets/images/gsap.svg" width="30" height="30"> |
-| **Backend & DevOps** | <img src="./assets/images/node.svg" width="30" height="30">,<img src="./assets/images/postgres.svg" width="30" height="30">, <img src="./assets/images/sanity.svg" width="30" height="30">, <img src="./assets/images/docker.svg" width="30" height="30">, <img src="./assets/images/linux.svg" width="30" height="30">, <img src="./assets/images/git.svg" width="30" height="30">, <img src="./assets/images/github-speckit.svg" width="30" height="30"> |
-| **Design** | <img src="./assets/images/figma.svg" width="30" height="30">, <img src="./assets/images/photopea.svg" width="30" height="30"> |
+| **Languages** | <img src="./assets/images/typescript.svg" width="30" height="30"> <img src="./assets/images/python.svg" width="30" height="30"> |
+| **AI & Data** | <img src="./assets/images/openai-sdk.svg" width="30" height="30"> <img src="./assets/images/numpy.svg" width="30" height="30"> <img src="./assets/images/pandas.svg" width="30" height="30"> <img src="./assets/images/streamlit.svg" width="30" height="30"> |
+| **Frontend** | <img src="./assets/images/next.svg" width="30" height="30"> <img src="./assets/images/react.svg" width="30" height="30"> <img src="./assets/images/zustand.svg" width="30" height="30"> <img src="./assets/images/tailwind.svg" width="30" height="30"> <img src="./assets/images/gsap.svg" width="30" height="30"> |
+| **Backend & DevOps** | <img src="./assets/images/node.svg" width="30" height="30"> <img src="./assets/images/postgres.svg" width="30" height="30"> <img src="./assets/images/sanity.svg" width="30" height="30"> <img src="./assets/images/docker.svg" width="30" height="30"> <img src="./assets/images/linux.svg" width="30" height="30"> <img src="./assets/images/git.svg" width="30" height="30"> <img src="./assets/images/github-speckit.svg" width="30" height="30"> |
+| **Design** | <img src="./assets/images/figma.svg" width="30" height="30"> <img src="./assets/images/photopea.svg" width="30" height="30"> |
 
 ---
 
