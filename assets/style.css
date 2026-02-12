@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.skills-table {
+    tr {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+}
+
+.skills-box {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    padding: 5px 10px;
+    border-radius: 10px;
+
+    span {
+        font-size: 14px;
+    }
+
+    img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+.skills-category {
+    font-weight: bold;
+    font-size: 16px;
+}

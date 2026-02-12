@@ -1,3 +1,70 @@
+# Hi there, I'm Muhammad Affan 👋
+
+<link rel="stylesheet" href="./assets/style.css"/>
+
+I am a **Full-Stack Developer & AI Engineer** focused on building scalable web applications and intelligent agentic systems. I bridge the gap between sleek UI/UX and robust backend logic.
+
+## 🛠 Tech Stack
+
+| Category | Tools & Technologies |
+| --- | --- |
+| **Languages** | <span class="exm">Typescript <img src="./assets/images/tailwindcss.svg"></span> , Python, Bash |
+| **AI & Data** | OpenAI Agents SDK, Google Agent Development kit, NumPy, Pandas, Streamlit |
+| **Frontend** | Next.js, React, TailwindCSS, GSAP, Bootstrap |
+| **Backend & DevOps** | Docker, Linux, Git, Claude Code CLI, GitHub Specit |
+| **Design** | Figma, Photopea |
+
+---
+
+## 🚀 Featured Projects
+
+### **Appointly** | *Appointment & Lead Management*
+
+A seamless bridge between service providers and clients, streamlining the end-to-end booking experience.
+
+* **Automated Workflow:** Fully automated pipeline from initial booking to slot allocation.
+* **Escrow Infrastructure:** Secure recurring payment system built atop the Stripe API.
+* **Provider Marketplace:** Dynamic service listing allowing users to discover top-rated providers.
+
+### **Workhive** | *Project Management for Remote Teams*
+
+A comprehensive workspace designed to enhance productivity and transparency for distributed teams.
+
+* **Granular RBAC:** Robust Role-Based Access Control system to manage permissions for Employees, Managers, and Executives.
+* **Advanced Task Orchestration:** Supports multi-candidate assignment and complex task dependencies.
+* **Performance Analytics:** Manager-side leaderboard and progress tracking to visualize team velocity and task completion rates.
+
+### **Manzarri** | *Jewelry E-commerce Solution*
+
+A data-driven retail platform featuring deep integration with analytics for business intelligence.
+
+* **Business Intelligence:** Integrated Google Analytics API to track real-time user engagement and conversion funnels.
+* **Smart Inventory:** Individual product tracking (wishlist adds, cart abandonment, stock alerts) to drive data-backed sales decisions.
+* **Admin Suite:** Comprehensive dashboard for revenue tracking, visitor counts, and automated stock replenishment alerts.
+
+---
+
+## 🏆 Hackathons & Achievements
+
+**Panaversity AI Native Book**
+
+* Developed a Docusaurus-compatible digital book focused on *Physical AI and Humanoid Robotics*.
+* Engineered a **RAG (Retrieval-Augmented Generation) pipeline** using **Qdrant** and **Cohere** to provide students with real-time, context-aware answers to complex queries.
+
+---
+
+### **Let's Connect!**
+
+* [**LinkedIn:**](www.linkedin.com/in/muhammad-affan-139a3a290)
+* [**Portfolio:**](https://muhammad-affan.vercel.app/)
+* [**Email:**](affanamir903@gmail.com)
+
+
+---------------------------
+
+check the following makrdown of my github readme 
+
+```markdown
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -59,3 +126,47 @@ I'm a **full stack** developer based in **Pakistan** with an expreience in build
 
 ## 🚀 Let's Build Something Amazing Together!
 If you have an exciting project idea, feel free to **reach out**. Let's create something awesome! 🌟
+
+```
+I have upskilled my self and i want yo to edit the readme in your sentences , just check out details below 
+
+
+
+## Tech stack :
+**Programming languages :** Typescript , Python 
+**AI and Data science :** Numpy , Pandas , streamlit , OpenAI agents sdk , Google ADK .
+**Fullstack development :** Next.JS , React , TailwindCSS , Bootstrap , GSAP
+**Tools :** Git , Docker , Linux , Bash , Claude code cli , Github Speckit , 
+**Designing :** Figma , Photopea 
+
+## Projects :
+### Appointly :
+Appointly is a appointments management platform that seamlessly connect service provider to thier potential leads and customers . 
+
+#### Features :
+- **Automated flow :** From booking to slot allocation and management , entire process is automated .
+- **Escrow payments :** Reoccuring payments collection unit built on the top of stripe .
+- **Service listing :** Browse the most prominent and highly rated providers through out the platform .
+
+### Workhive :
+Workhive is a project management application for remote teams . 
+
+#### Features :
+- **Role-Based Central management :** Built a complete RBAC system , defining all the roles differentiating managers , CTOs and employees priviledges .
+- **Task assignment :** Task assignment and reporting feature , each task can be assigned to multiple candidates and can be dependent on other tasks .
+- **Reporting :** Each employee is responsible to submit its assigned tasks within the deadline .
+- **Progress tracking :** Each employee's progress can be tracked , a leader board on the manager can show the highly performing employees and task completions .
+
+
+### Manzarri : 
+Ecommerce website for a local jewellery store .
+#### Features :
+- **Order placement and management :** Each order easily be managed by the store admin .
+- **Activity updates : ** Each activity and engagements on the user facing pages can be tracked using google analytics API , and custom dashboard notification features etc . 
+- **Product tracking :** Each product data can also be tracked indivisually such as how many users are engaging , how many have added to cart/ wishlist , how much pieces are sold out and how much stock is remaining , providing upto data analysis of the stock to admin helping better sales decision .
+- **Admin dashboard :** Admin dashboard which providing upto date analytics to the admin such as product stock related alerts , sales and revenue , visitors count and active user etc .
+
+## Hackathons :
+**Panaversity AI Native Book :**
+- Built complete docusaurus compatible markdown book application about `Physical AI And Humaniod Robotics`
+- Built a complete rag ingession pipeline using qdrant and cohere which dynamically updates the AI chatbot's context , providing students to the point answers to their questions related to the given book . 
